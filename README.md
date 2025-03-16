@@ -24,7 +24,6 @@ Ensure you have the following dependencies installed:
 ---
 
 ## Setup & Usage
-
-### Step 1: Install dependencies
+Install dependencies
 ```sh
 pip install -r requirements.txt
