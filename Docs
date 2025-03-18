@@ -1,8 +1,0 @@
-
-│── docs/                                   # Documentation Folder
-│   ├── cloud_classification_preprocessing.md
-│   ├── dataset_classification.md
-│   ├── fine_tune_model.md
-│   ├── submission.md
-│   ├── test_model.md
-│   ├── train_model.md
